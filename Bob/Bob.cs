@@ -31,7 +31,7 @@ public static class Bob
         {
             return "Sure.";
         }
+
         return "Whatever.";
     }
 }
-//return (statement[statement.Length - 1] == '?' && statement.All(char.IsUpper))? "Calm down, I know what I'm doing!":(statement[statement.Length - 1] == '?')? "Sure.": (statement.All(char.IsUpper))?"Whoa, chill out!": "Whatever.";
