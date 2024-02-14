@@ -1,0 +1,36 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2fc11365_002D6aad_002D4651_002D8ddd_002Df78fb0832364/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BobTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36143583-700C-497D-9930-CC564D1268CA::net7.0::BobTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=790f4561_002D4ff1_002D4165_002D8c0c_002D656b1853ae03/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BobTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36143583-700C-497D-9930-CC564D1268CA::net7.0::BobTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7f35c954_002D8736_002D4bdf_002Dbc01_002D5cb555145e34/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BobTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36143583-700C-497D-9930-CC564D1268CA::net7.0::BobTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=abd19a5e_002D8241_002D43a1_002D9f1b_002D4086a253f09d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BobTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36143583-700C-497D-9930-CC564D1268CA::net7.0::BobTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d063d700_002D090e_002D4480_002Daa7c_002D4ac278ae5790/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Forceful_question" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36143583-700C-497D-9930-CC564D1268CA::net7.0::BobTests.Forceful_question&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d190d290_002Dd2bf_002D4fe1_002D9f7e_002D266e4dd3390f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CipherTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36143583-700C-497D-9930-CC564D1268CA::net7.0::BobTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e85f7708_002D54a2_002D4e78_002Da76c_002D6992d41d16ee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Forceful_question #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36143583-700C-497D-9930-CC564D1268CA::net7.0::BobTests.Forceful_question&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
